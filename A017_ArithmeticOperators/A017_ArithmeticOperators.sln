@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A017_ArithmeticOperators", "A017_ArithmeticOperators\A017_ArithmeticOperators.csproj", "{F6713EFF-B254-4AB5-8BEC-1E22721B0D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6713EFF-B254-4AB5-8BEC-1E22721B0D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6713EFF-B254-4AB5-8BEC-1E22721B0D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6713EFF-B254-4AB5-8BEC-1E22721B0D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6713EFF-B254-4AB5-8BEC-1E22721B0D47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8B99ABD-E3E5-4CE3-8B19-8DF604E7903C}
+	EndGlobalSection
+EndGlobal
